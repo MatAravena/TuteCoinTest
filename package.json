@@ -1,0 +1,22 @@
+{
+  "name": "tutecointest",
+  "version": "1.0.0",
+  "description": "Another test to learn a bit more how to create a eth smart contract and so an attempt for a new ICO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatAravena/TuteCoinTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatAravena/TuteCoinTest/issues"
+  },
+  "homepage": "https://github.com/MatAravena/TuteCoinTest#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
